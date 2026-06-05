@@ -23,15 +23,15 @@ visit : https://pacetech90.github.io/landing-page
 
 ## Cara Menggunakan
 
-1. Letakkan folder ini di root web server (misal: `C:\wamp64\www\dark-poly-landing`)
-2. Akses melalui browser: `http://localhost/dark-poly-landing/`
+1. Letakkan folder ini di root web server (misal: `C:\wamp64\www\landing-page`)
+2. Akses melalui browser: `http://localhost/landing-page/`
 
 Atau buka langsung file `index.html` di browser modern.
 
 ## Struktur File
 
 ```
-dark-poly-landing/
+landing-page/
 ├── index.html    # Halaman utama
 └── README.md     # Dokumentasi
 ```
